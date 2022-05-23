@@ -1,0 +1,6 @@
+---
+type: ctdf.Operator
+match:
+  PrimaryIdentifier: GB:NOCID:136362
+data:
+  PrimaryName: "First South Yorkshire"
