@@ -1,0 +1,54 @@
+type: ctdf.Service
+match:
+  OperatorRef: GB:NOC:SCCM
+data:
+  BrandColour: "#F2A83B"
+---
+type: ctdf.Service
+match:
+  OperatorRef: GB:NOC:SCCM
+  ServiceName: A
+data:
+  BrandColour: "#04A387"
+---
+type: ctdf.Service
+match:
+  OperatorRef: GB:NOC:SCCM
+  ServiceName: B
+data:
+  BrandColour: "#04A387"
+---
+type: ctdf.Service
+match:
+  OperatorRef: GB:NOC:SCCM
+  ServiceName: PR1
+data:
+  BrandColour: "#E72D57"
+---
+type: ctdf.Service
+match:
+  OperatorRef: GB:NOC:SCCM
+  ServiceName: PR2
+data:
+  BrandColour: "#FF6500"
+---
+type: ctdf.Service
+match:
+  OperatorRef: GB:NOC:SCCM
+  ServiceName: PR3
+data:
+  BrandColour: "#4382B3"
+---
+type: ctdf.Service
+match:
+  OperatorRef: GB:NOC:SCCM
+  ServiceName: PR4
+data:
+  BrandColour: "#92BF73"
+---
+type: ctdf.Service
+match:
+  OperatorRef: GB:NOC:SCCM
+  ServiceName: PR5
+data:
+  BrandColour: "#8547AC"

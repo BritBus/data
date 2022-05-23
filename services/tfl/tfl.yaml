@@ -1,0 +1,5 @@
+type: ctdf.Service
+match:
+  OperatorRef: GB:NOC:TFLO
+data:
+  BrandColour: "#D8301F"
